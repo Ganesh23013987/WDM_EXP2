@@ -55,7 +55,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
-<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/21ec55b8-bb32-4d97-839f-de23f276345d" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/21ec55b8-bb32-4d97-839f-de23f276345d" />
 
 ### RESULT: 
 Thus, the associate rules for the employee dataset using Apriori Algorithm is successfully executed.
